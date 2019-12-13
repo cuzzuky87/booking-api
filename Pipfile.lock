@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b1d5cc2ce215ab21c00da0fa72eb61352faae6d8267fa70dd5a79a2ae22e4408"
+            "sha256": "11e108a2112f0a4e4972f5bacf49a7fb1de87d7f9ebe468ac2d348a3bd6408be"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -18,11 +18,11 @@
     "default": {
         "django": {
             "hashes": [
-                "sha256:7c3543e4fb070d14e10926189a7fcf42ba919263b7473dceaefce34d54e8a119",
-                "sha256:a2814bffd1f007805b19194eb0b9a331933b82bd5da1c3ba3d7b7ba16e06dc4b"
+                "sha256:a4ad4f6f9c6a4b7af7e2deec8d0cbff28501852e5010d6c2dc695d3d1fae7ca0",
+                "sha256:fa98ec9cc9bf5d72a08ebf3654a9452e761fbb8566e3f80de199cbc15477e891"
             ],
             "index": "pypi",
-            "version": "==2.2"
+            "version": "==2.2.8"
         },
         "django-templated-mail": {
             "hashes": [
@@ -33,19 +33,19 @@
         },
         "djangorestframework": {
             "hashes": [
-                "sha256:607865b0bb1598b153793892101d881466bd5a991de12bd6229abb18b1c86136",
-                "sha256:63f76cbe1e7d12b94c357d7e54401103b2e52aef0f7c1650d6c820ad708776e5"
+                "sha256:05809fc66e1c997fd9a32ea5730d9f4ba28b109b9da71fccfa5ff241201fd0a4",
+                "sha256:e782087823c47a26826ee5b6fa0c542968219263fb3976ec3c31edab23a4001f"
             ],
             "index": "pypi",
-            "version": "==3.9"
+            "version": "==3.11.0"
         },
         "djangorestframework-simplejwt": {
             "hashes": [
-                "sha256:9e0bde3663c16ff3206c174806ba139d6f62b536332556a0fa56f723a6245fd4",
-                "sha256:e0baee46d6442e30ccc8f12ffc81bfbcc3580de0e9bd7135b4f9199afa4fbedb"
+                "sha256:6fbbf385fec78e1e081c8346947ba9a8a8c6e08afadd6cd1139cbc39c123628e",
+                "sha256:ac332afac498a031218abe7b5220f77c6619dc5b0b3128cb9181fc03fdb8cb34"
             ],
             "index": "pypi",
-            "version": "==4.1.2"
+            "version": "==4.1.5"
         },
         "djoser": {
             "hashes": [
